@@ -20,8 +20,8 @@
 
 ## Project Structure
 imp-assessment/
-├── Laravel/        → Laravel API (Sanctum, PostgreSQL)
-├── NextJs/         → Next.js Frontend (App Router, DaisyUI)
+├── backend/        → Laravel API (Sanctum, PostgreSQL)
+├── frontend/         → Next.js Frontend (App Router, DaisyUI)
 ├── docker-compose.yml
 ├── README.md
 └── .gitignore
