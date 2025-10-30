@@ -1,0 +1,14 @@
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+
+# Laravel
+backend/vendor/
+backend/.env
+backend/storage/*.key
+backend/bootstrap/cache/*.php
+
+# Docker
+docker-compose.yml
+*.log
